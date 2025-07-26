@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Contextual RAG Banner](https://github.com/user-attachments/assets/your-banner-image)
+
 
 <p align="center">
   <strong>Next-Generation Retrieval-Augmented Generation</strong><br>
