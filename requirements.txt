@@ -1,0 +1,8 @@
+os
+voyageai
+langchain_community
+langchain_experimental
+pymongo
+langchain_voyageai
+pprint
+langchain_openai
